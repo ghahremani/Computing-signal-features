@@ -6,7 +6,7 @@ Notebooks:
 
 sharpness_notebook.ipynb: notebook to calculate the sharpness of deep brain signal (LFP)
 
-steepness_notebook_L.ipynb: notebook to calculate the steepness of deep brain signal 
+steepness_notebook.ipynb: notebook to calculate the steepness of deep brain signal 
 
 
 
