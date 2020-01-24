@@ -1,4 +1,4 @@
-# Oscillatory_shape_PD_collaborative_project
+# Applying signal processing tools to extract temporal features from brain signals
 
 This project illustrates calculating the shape of oscillations and phase-amplitude coupling in deep brain recordings of Parkinson's disease patients. 
 
